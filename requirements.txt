@@ -1,5 +1,5 @@
 Django==1.11.24
-djangorestframework==3.6.2
+djangorestframework==3.9.1
 pbr==5.4.2
 pytz==2019.2
 six==1.12.0
